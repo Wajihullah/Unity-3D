@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Procedural2.unity
+  isLoaded: 1
+  isActive: 1

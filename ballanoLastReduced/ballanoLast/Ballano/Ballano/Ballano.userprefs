@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\discMove.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TryButtonClick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Retry.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\discMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\moveBall.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CreateLine.cs" Line="1419" Column="4" />
+      <File FileName="Assets\Scripts\rotateSpike.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

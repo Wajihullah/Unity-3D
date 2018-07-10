@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cloned
+  - TopRoad0
+  - TopRoad1
+  - TopRoad2
+  - TopRoad3
+  - TopRoad4
+  - TopRoad5
+  - TopRoad6
+  - TopRoad7
+  - TopRoad8
+  - TopRoad9
+  - TopRoad10
+  - TopRoad11
+  - TopRoad12
+  - TopRoad13
+  - TopRoad14
+  - Car
+  - TopRoad15
+  - TopRoad16
+  - Canvas
+  - Panel
+  - Restart
+  - Score
+  - Skid
+  - LeftSkid
+  - Line
+  - RoadTheme
+  - AirTheme
+  - TrainTheme
+  - WaterTheme
+  - SnowTheme
+  - ThemePanel
+  - HighScore
+  - Collectible
+  - Boost
+  - BoostEnd
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - RoadTheme
+  - AirTheme
+  - TrainTheme
+  - WaterTheme
+  - SnowTheme
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3444769833
+    locked: 0
+  - name: Background
+    uniqueID: 2155393157
+    locked: 0
+  - name: flyover
+    uniqueID: 1724564113
+    locked: 0
